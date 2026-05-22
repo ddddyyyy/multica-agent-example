@@ -43,7 +43,7 @@ This folder stores reusable templates for a project delivery team in Multica, co
 
 1. Copy the concise role definition into the agent `instructions` field in Multica.
 2. Create a skill from the corresponding `SKILL.md` and attach it to the matching agent.
-3. Use [05-routing-rules.md](/Users/madongyu/Documents/AgentCode/multica/docs/agent-role-templates/project-delivery/05-routing-rules.md) as the collaboration routing rules.
+3. Use [05-routing-rules.md](/Users/madongyu/Documents/AgentCode/multica/docs/agent-role-templates/05-routing-rules.md) as the collaboration routing rules.
 4. Adjust names, domain terminology, boundaries, and approval checkpoints to match your real project.
 
 ## Recommended Setup
