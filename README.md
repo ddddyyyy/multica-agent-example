@@ -64,3 +64,17 @@
 
 - 项目验收师：
   `instructions` -> `04-project-qa.md`
+
+## 触发建议
+
+- 还在“想法、目标、需求整理、PRD、范围定义、优先级”阶段：
+  优先使用 `skills/product-manager-prd/SKILL.md`
+
+- 已经有明确需求或 PRD，需要拆成父 issue / sub-issue、安排依赖顺序和执行分工：
+  优先使用 `skills/project-manager-sub-issue-splitting/SKILL.md`
+
+- 已经进入具体实现、联调、修 bug：
+  不再触发产品经理或项目经理 skill，改用前端或后端角色
+
+- 已经进入验证、回归、上线判断：
+  不再触发产品经理或项目经理 skill，改用项目验收角色

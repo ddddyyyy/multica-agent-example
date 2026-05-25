@@ -64,3 +64,17 @@ This folder stores reusable templates for a project delivery team in Multica, co
 
 - Project QA:
   `instructions` -> `04-project-qa.md`
+
+## Trigger Guidance
+
+- If the work is still in the stage of ideas, goals, requirement clarification, PRD drafting, scope definition, or prioritization:
+  use `skills/product-manager-prd/SKILL.md`
+
+- If the requirement or PRD is already clear and now needs to be turned into parent issues, sub-issues, dependency order, and execution assignments:
+  use `skills/project-manager-sub-issue-splitting/SKILL.md`
+
+- If the work has already entered implementation, integration, or bug fixing:
+  do not trigger the product manager or project manager skill; switch to the frontend or backend role
+
+- If the work has already entered validation, regression, or release decision:
+  do not trigger the product manager or project manager skill; switch to the QA role
